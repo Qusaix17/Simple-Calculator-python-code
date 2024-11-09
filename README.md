@@ -3,4 +3,11 @@ This is my first ever code that i made after learning python for a month, im pro
 
 this simple calculator was made by me using Python and Tkinter.
 
-can be used for basic calculations, i did it to learn and experiment.
+can be used for basic calculations :
+- add, subtract, devide, multiply
+- simple freidnly UI
+
+  INSTALLATION:
+
+  - Clone the program:
+ 
