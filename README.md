@@ -10,4 +10,4 @@ can be used for basic calculations :
   INSTALLATION:
 
   - Clone the program:
- 
+ get clone https://github.com/Qusaix17/Simple-Calculator-python-code.git
